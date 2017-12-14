@@ -1,0 +1,22 @@
+body {
+  background-color: powderblue;
+}
+
+label {
+  display: inline-block;
+  float: left;
+  text-align: left;
+  clear: left;
+  width: 100px;
+}
+
+input {
+  display: inline-block;
+  float: left;
+}
+
+#something {
+  width: 100px;
+  display: inline-block;
+  background-color: orange;
+}
